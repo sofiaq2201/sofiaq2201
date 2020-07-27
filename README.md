@@ -1,7 +1,7 @@
 ### Hi, there 👋 I'm Sofia!
 
 I'm a Java developer and Informatic student from Argentina. I love creativity, design and languages. 
-I have many goals in my life such as becoming a profesional in this field, but in order to accomplish it, I have to keep learning and practicing. 
+I have many goals in my life such as becoming a profesional in this field, but in order to accomplish it, I have to keep learning and practicing which activities I enjoy! 
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/00161bb69dae88456c30fcc83781fe67/tumblr_ossn5yuBaA1vhvnzyo1_400.gifv" />
 
