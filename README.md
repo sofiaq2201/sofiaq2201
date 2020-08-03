@@ -7,9 +7,9 @@ I have many goals in my life such as becoming a profesional in this field, but i
 
 - 😄 Pronouns: She/Her
 - 🌍 I Speak: Spanish, English and basic Japanese
-- 📚 At the moment: I'm learning Spring Boot and Angular
+- 📚 At the moment: I'm learning Spring Boot
 - 🔎 I'm looking: to colaborate in some projects!
-- 💬 Ask me about: Japanese language, anime and programming 
+- 💬 Ask me about: Japanese language, and programming 
 - 📩You can find me on [Linkedin](https://www.linkedin.com/in/sofia-quispe/)
 
 #### Technologies 
